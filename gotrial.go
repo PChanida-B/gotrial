@@ -12,6 +12,13 @@ type Test struct {
 //git tag v0.0.1
 //git push --tag origin master
 
+// git init
+// git add .
+// git commit -m "first commit"
+// git branch -M master
+// git remote add origin https://github.com/PChanida-B/gotrial.git
+// git push -u origin master
+
 func TestPrint() string {
 	return "Hello"
 }
